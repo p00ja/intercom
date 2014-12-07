@@ -1,0 +1,4 @@
+name = Intercom
+description = Integration with Intercom.io
+core = 7.x
+package = other
